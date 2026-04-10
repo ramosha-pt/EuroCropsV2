@@ -182,7 +182,7 @@ hcat4_code,hcat4_name,usage_code,usage_name,link,agriprod_code,agriprod_name
 3310610010,finola,0,No specified use,<,I1190,Other oilseed crops n.e.c.
 3310611000,fibre_crops,0,No specified use,=,I2000,Fibre crops
 3310611000,fibre_crops,7,Fiber,=,I2000,Fibre crops
-3310611000,fibre_crops,8,Oil,=,I2000,Fibre crops
+3310611000,fibre_crops,8,Oil,=,I1000,Oilseeds
 3310612000,aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use,<,I5000,"Aromatic, medicinal and culinary plants"
 3310612000,aromatic_medicinal_culinary_plants_spices_herbs,1,Consumption/Fresh,<,I5000,"Aromatic, medicinal and culinary plants"
 3310612000,aromatic_medicinal_culinary_plants_spices_herbs,2,Industry/for processing,<,I5000,"Aromatic, medicinal and culinary plants"
